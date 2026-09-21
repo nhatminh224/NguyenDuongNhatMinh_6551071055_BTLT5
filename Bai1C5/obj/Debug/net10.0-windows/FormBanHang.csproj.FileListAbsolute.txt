@@ -1,0 +1,17 @@
+D:\Lap_Trinh_Truc_Quan\Bai_Tap\BTLTC5\FormBanHang\bin\Debug\net10.0-windows\FormBanHang.exe
+D:\Lap_Trinh_Truc_Quan\Bai_Tap\BTLTC5\FormBanHang\bin\Debug\net10.0-windows\FormBanHang.deps.json
+D:\Lap_Trinh_Truc_Quan\Bai_Tap\BTLTC5\FormBanHang\bin\Debug\net10.0-windows\FormBanHang.runtimeconfig.json
+D:\Lap_Trinh_Truc_Quan\Bai_Tap\BTLTC5\FormBanHang\bin\Debug\net10.0-windows\FormBanHang.dll
+D:\Lap_Trinh_Truc_Quan\Bai_Tap\BTLTC5\FormBanHang\bin\Debug\net10.0-windows\FormBanHang.pdb
+D:\Lap_Trinh_Truc_Quan\Bai_Tap\BTLTC5\FormBanHang\obj\Debug\net10.0-windows\FormBanHang.Form1.resources
+D:\Lap_Trinh_Truc_Quan\Bai_Tap\BTLTC5\FormBanHang\obj\Debug\net10.0-windows\FormBanHang.csproj.GenerateResource.cache
+D:\Lap_Trinh_Truc_Quan\Bai_Tap\BTLTC5\FormBanHang\obj\Debug\net10.0-windows\FormBanHang.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lap_Trinh_Truc_Quan\Bai_Tap\BTLTC5\FormBanHang\obj\Debug\net10.0-windows\FormBanHang.AssemblyInfoInputs.cache
+D:\Lap_Trinh_Truc_Quan\Bai_Tap\BTLTC5\FormBanHang\obj\Debug\net10.0-windows\FormBanHang.AssemblyInfo.cs
+D:\Lap_Trinh_Truc_Quan\Bai_Tap\BTLTC5\FormBanHang\obj\Debug\net10.0-windows\FormBanHang.csproj.CoreCompileInputs.cache
+D:\Lap_Trinh_Truc_Quan\Bai_Tap\BTLTC5\FormBanHang\obj\Debug\net10.0-windows\FormBanHang.dll
+D:\Lap_Trinh_Truc_Quan\Bai_Tap\BTLTC5\FormBanHang\obj\Debug\net10.0-windows\refint\FormBanHang.dll
+D:\Lap_Trinh_Truc_Quan\Bai_Tap\BTLTC5\FormBanHang\obj\Debug\net10.0-windows\FormBanHang.pdb
+D:\Lap_Trinh_Truc_Quan\Bai_Tap\BTLTC5\FormBanHang\obj\Debug\net10.0-windows\FormBanHang.genruntimeconfig.cache
+D:\Lap_Trinh_Truc_Quan\Bai_Tap\BTLTC5\FormBanHang\obj\Debug\net10.0-windows\ref\FormBanHang.dll
+D:\Lap_Trinh_Truc_Quan\Bai_Tap\BTLTC5\FormBanHang\obj\Debug\net10.0-windows\FormBanH.232F2F13.Up2Date
