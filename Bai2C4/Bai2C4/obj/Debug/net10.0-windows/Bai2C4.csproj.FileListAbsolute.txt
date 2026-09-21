@@ -1,0 +1,17 @@
+D:\N3K1\LTTQ\BaiTapBuoi5\Bai2C4\Bai2C4\bin\Debug\net10.0-windows\Bai2C4.exe
+D:\N3K1\LTTQ\BaiTapBuoi5\Bai2C4\Bai2C4\bin\Debug\net10.0-windows\Bai2C4.deps.json
+D:\N3K1\LTTQ\BaiTapBuoi5\Bai2C4\Bai2C4\bin\Debug\net10.0-windows\Bai2C4.runtimeconfig.json
+D:\N3K1\LTTQ\BaiTapBuoi5\Bai2C4\Bai2C4\bin\Debug\net10.0-windows\Bai2C4.dll
+D:\N3K1\LTTQ\BaiTapBuoi5\Bai2C4\Bai2C4\bin\Debug\net10.0-windows\Bai2C4.pdb
+D:\N3K1\LTTQ\BaiTapBuoi5\Bai2C4\Bai2C4\obj\Debug\net10.0-windows\Bai2C4.Form1.resources
+D:\N3K1\LTTQ\BaiTapBuoi5\Bai2C4\Bai2C4\obj\Debug\net10.0-windows\Bai2C4.csproj.GenerateResource.cache
+D:\N3K1\LTTQ\BaiTapBuoi5\Bai2C4\Bai2C4\obj\Debug\net10.0-windows\Bai2C4.GeneratedMSBuildEditorConfig.editorconfig
+D:\N3K1\LTTQ\BaiTapBuoi5\Bai2C4\Bai2C4\obj\Debug\net10.0-windows\Bai2C4.AssemblyInfoInputs.cache
+D:\N3K1\LTTQ\BaiTapBuoi5\Bai2C4\Bai2C4\obj\Debug\net10.0-windows\Bai2C4.AssemblyInfo.cs
+D:\N3K1\LTTQ\BaiTapBuoi5\Bai2C4\Bai2C4\obj\Debug\net10.0-windows\Bai2C4.csproj.CoreCompileInputs.cache
+D:\N3K1\LTTQ\BaiTapBuoi5\Bai2C4\Bai2C4\obj\Debug\net10.0-windows\Bai2C4.dll
+D:\N3K1\LTTQ\BaiTapBuoi5\Bai2C4\Bai2C4\obj\Debug\net10.0-windows\refint\Bai2C4.dll
+D:\N3K1\LTTQ\BaiTapBuoi5\Bai2C4\Bai2C4\obj\Debug\net10.0-windows\Bai2C4.pdb
+D:\N3K1\LTTQ\BaiTapBuoi5\Bai2C4\Bai2C4\obj\Debug\net10.0-windows\Bai2C4.genruntimeconfig.cache
+D:\N3K1\LTTQ\BaiTapBuoi5\Bai2C4\Bai2C4\obj\Debug\net10.0-windows\ref\Bai2C4.dll
+D:\N3K1\LTTQ\BaiTapBuoi5\Bai2C4\Bai2C4\obj\Debug\net10.0-windows\Bai2C4.csproj.Up2Date
